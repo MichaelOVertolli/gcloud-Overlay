@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<repositories encoding="UTF-8" version="1.0">
+  <repo priority="50" quality="experimental" status="unofficial">
+    <name>google-cloud-sdk</name>
+    <description lang="en">Wrapper for the Google cloud SDK.</description>
+    <homepage>https://github.com/MichaelOVertolli/gcloud-Overlay</homepage>
+    <owner type="person">
+      <email>michaelvertolli@gmail.com</email>
+      <name>Michael O. Vertolli</name>
+    </owner>
+    <source type="git">https://github.com/MichaelOVertolli/gcloud-Overlay.git</source>
+  </repo>
+</repositories>
