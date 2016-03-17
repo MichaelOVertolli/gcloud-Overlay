@@ -6,7 +6,7 @@ For details aboug gcloud, visit https://cloud.google.com/sdk/
 ## Installation
 To install the overlay, input:
 ```bash
-layman -o  -f -a google-cloud-sdk
+layman -o https://raw.githubusercontent.com/MichaelOVertolli/gcloud-Overlay/master/google-cloud-sdk.xml -f -a google-cloud-sdk
 ```
 
 You can emerge the file with:
