@@ -11,7 +11,7 @@ layman -o https://raw.githubusercontent.com/MichaelOVertolli/gcloud-Overlay/mast
 
 You can emerge the file with:
 ```bash
-emerge -a google_appengine
+emerge -a google-cloud-sdk
 ```
 
 Then update your path environment with:
